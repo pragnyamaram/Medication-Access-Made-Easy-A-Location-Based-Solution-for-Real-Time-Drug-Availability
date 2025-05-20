@@ -1,5 +1,5 @@
 # Medication-Access-Made-Easy-A-Location-Based-Solution-for-Real-Time-Drug-Availability
-Abstract—This paper presents a novel web-based platform
+Abstract—This README presents a novel web-based platform
 designed to enhance access to essential medications through realtime location-based availability checks. The platform enables
 users to locate nearby pharmacies that have specific drugs in
 stock by entering the medication name and their geographic
